@@ -24,7 +24,7 @@
 ## 🧠 About Me
 
 ```yaml
-👩‍💻 Name        : Vidhya Sangeetha
+👩‍💻 Name        : Vidhya Sasidharan
 📍 Location    : Dubai, UAE 🇦🇪  |  Open Globally 🌍
 💼 Title       : Senior Quality Assurance Engineer
 ⏳ Experience  : 10+ Years in QA & Test Automation

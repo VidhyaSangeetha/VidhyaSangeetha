@@ -31,6 +31,7 @@
 🎯 Targeting   : QA Lead | QA Manager | Principal SDET
 
 🤖 Specializations:
+   ├── RAG & Agentic AI Quality Assurance
    ├── AI & LLM Application Quality Assurance
    ├── Chatbot Testing & Hallucination Detection
    ├── API Test Automation (37+ suites | Mocha | Supertest)
@@ -40,7 +41,7 @@
    └── Performance & Load Testing (k6 Smoke/Stress/Soak)
 
 🏭 Industries  : Retail 🛒  |  Telecom 📡
-🎓 Certs       : Google Prompting Essentials Specialization
+🎓 Certs       : IBM RAG & Agentic AI (In-Progress) | Google | DeepLearning.AI
 ✈️  Open To     : Remote | Hybrid | Onsite | Relocation
 ```
 
@@ -163,12 +164,17 @@ Validating cloud deployments using PowerShell & Pester. Ensuring IaC (ARM/Bicep)
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Training
 
 <div align="center">
 
-[![Google Prompting Essentials](https://img.shields.io/badge/Google_Prompting_Essentials-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/XG6WFD8UAD5A)
-![Generative AI](https://img.shields.io/badge/Generative_AI_Fundamentals-Certified-34A853?style=for-the-badge&logo=google-cloud&logoColor=white)
+| Provider | Certification | Status / Link |
+|---|---|---|
+| **IBM** | RAG and Agentic AI Professional Certificate | *In-Progress* |
+| **Anthropic** | [Claude Code in Action](https://verify.skilljar.com/c/5ck9ym3kyd9w) | ✅ Certified |
+| **DeepLearning.AI** | [AI Agentic Design Patterns (Anthropic)](https://learn.deeplearning.ai/accomplishments/f56b5490-f2a4-4872-96a6-d789992f9e28) | ✅ Certified |
+| **DeepLearning.AI** | [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/accomplishments/10e9015b-81b7-4d49-b378-bc432a301272) | ✅ Certified |
+| **Google** | [Google Prompting Essentials](https://www.coursera.org/account/accomplishments/specialization/XG6WFD8UAD5A) | ✅ Certified |
 
 </div>
 

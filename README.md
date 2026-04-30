@@ -8,7 +8,7 @@
 
 <br/>
 
-**API Testing** 📡 &nbsp;&bull;&nbsp; **UI Automation** 💻 &nbsp;&bull;&nbsp; **Mobile QA** 📱 &nbsp;&bull;&nbsp; **Performance** ⚡ &nbsp;&bull;&nbsp; **Cloud Infra** ☁️
+**API Testing** 📡 &nbsp;&bull;&nbsp; **UI Automation** 💻 &nbsp;&bull;&nbsp; **Mobile QA** 📱 &nbsp;&bull;&nbsp; **Performance** ⚡ &nbsp;&bull;&nbsp; **IaC Validation** ☁️
 
 <br/>
 
@@ -36,7 +36,7 @@
    ├── Chatbot Testing & Hallucination Detection
    ├── API Test Automation (37+ suites | Mocha | Supertest)
    ├── UI Automation (6+ Yrs Selenium/Java | Playwright | Cypress)
-   ├── Infrastructure QA (PowerShell | Pester | Azure Validation)
+   ├── Infrastructure-as-Code (IaC) Validation (Azure | Pester)
    ├── Mobile Testing (iOS & Android — Maestro)
    └── Performance & Load Testing (k6 Smoke/Stress/Soak)
 

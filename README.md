@@ -4,11 +4,15 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6929C4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=10%2B+Years+in+Quality+Engineering+%F0%9F%9A%80;AI+%26+LLM+Application+Testing+Specialist+%F0%9F%A4%96;API+%7C+UI+%7C+Mobile+%7C+Performance+Testing+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6929C4&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=10%2B+Years+in+Quality+Engineering+%F0%9F%9A%80;AI+%26+LLM+Application+Quality+Lead+%F0%9F%A4%96;Architecting+Future-Proof+QA+Frameworks+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vidhyasangeetha)
+**API Testing** 📡 &nbsp;&bull;&nbsp; **UI Automation** 💻 &nbsp;&bull;&nbsp; **Mobile QA** 📱 &nbsp;&bull;&nbsp; **Performance** ⚡ &nbsp;&bull;&nbsp; **Cloud Infra** ☁️
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhya-sasidharan/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidhyasangeetha@email.com)
 [![GitHub followers](https://img.shields.io/github/followers/VidhyaSangeetha?style=for-the-badge&logo=github&color=181717)](https://github.com/VidhyaSangeetha)
 ![Profile Views](https://komarev.com/ghpvc/?username=VidhyaSangeetha&color=6929c4&style=for-the-badge&label=PROFILE+VIEWS)
@@ -36,7 +40,7 @@
    └── Performance & Load Testing (k6 Smoke/Stress/Soak)
 
 🏭 Industries  : Retail 🛒  |  Telecom 📡
-🎓 Certs       : Google AI Certifications | ISTQB
+🎓 Certs       : Google Prompting Essentials Specialization
 ✈️  Open To     : Remote | Hybrid | Onsite | Relocation
 ```
 
@@ -163,9 +167,8 @@ Validating cloud deployments using PowerShell & Pester. Ensuring IaC (ARM/Bicep)
 
 <div align="center">
 
-![Google AI Essentials](https://img.shields.io/badge/Google_AI_Essentials-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
+[![Google Prompting Essentials](https://img.shields.io/badge/Google_Prompting_Essentials-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/XG6WFD8UAD5A)
 ![Generative AI](https://img.shields.io/badge/Generative_AI_Fundamentals-Certified-34A853?style=for-the-badge&logo=google-cloud&logoColor=white)
-![ISTQB](https://img.shields.io/badge/ISTQB-Foundation_Level-E84393?style=for-the-badge)
 
 </div>
 
@@ -181,7 +184,7 @@ Validating cloud deployments using PowerShell & Pester. Ensuring IaC (ARM/Bicep)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vidhyasangeetha)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhya-sasidharan/)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidhyasangeetha@email.com)
 
 <br/>

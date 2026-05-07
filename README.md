@@ -104,7 +104,7 @@ Validating cloud deployments using PowerShell & Pester. Ensuring IaC (ARM/Bicep)
 |---|---|---|
 | 🤖 [**AI Chatbot QA Framework**](https://github.com/VidhyaSangeetha/chatbotautomation) | End-to-end testing of U-Ask AI Chatbot — hallucination detection, multilingual (EN/AR), response quality scoring | `Playwright` `JS` `AI Testing` |
 | 💳 [**Wallet API Test Suite**](https://github.com/VidhyaSangeetha/walletapitesting) | Data-driven financial API testing with 12 scenarios, mock server, CI/CD ready | `Node.js` `Supertest` `DDT` |
-| 📋 [**AI QA Strategy Playbook**](https://github.com/VidhyaSangeetha/ai-test-strategy-playbook) | Production-ready AI QA strategies, templates, checklists and case studies | `Documentation` `Strategy` |
+| 📋 [**AI QA Strategy Playbook**]((https://github.com/VidhyaSangeetha/ai-qa-workflow-toolkit.git)) | Production-ready AI QA strategies, templates, checklists and case studies | `Documentation` `Strategy` |
 | 🔬 [**LLM Response Validator**](https://github.com/VidhyaSangeetha/ai-response-quality-validator) | Automated quality gates — hallucination detection, factual accuracy, safety checks | `Python` `Pytest` `OpenAI` |
 
 </div>

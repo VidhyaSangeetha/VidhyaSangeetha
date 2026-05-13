@@ -103,6 +103,7 @@ Validating cloud deployments using PowerShell & Pester. Ensuring IaC (ARM/Bicep)
 | Project | Description | Tech Stack |
 |---|---|---|
 | 🤖 [**AI Chatbot QA Framework**](https://github.com/VidhyaSangeetha/chatbotautomation) | End-to-end testing of U-Ask AI Chatbot — hallucination detection, multilingual (EN/AR), response quality scoring | `Playwright` `JS` `AI Testing` |
+| 🛒 [**E-Commerce Selenium Framework**](https://github.com/VidhyaSangeetha/ecommerce-selenium-framework) | Enterprise UI automation for a live nopCommerce site — Plain POM with locator separation, 6-step AJAX checkout, ThreadLocal parallel drivers, dual reporting | `Selenium 4` `Java 17` `TestNG` `Maven` `CI/CD` |
 | 💳 [**Wallet API Test Suite**](https://github.com/VidhyaSangeetha/walletapitesting) | Data-driven financial API testing with 12 scenarios, mock server, CI/CD ready | `Node.js` `Supertest` `DDT` |
 | 🏗️ [**Enterprise API Framework**](https://github.com/VidhyaSangeetha/enterprise-api-framework) | Scalable enterprise API testing framework with comprehensive standards, workflows, and automation suite | `Node.js` `API Testing` `Test Automation` |
 | 📋 [**AI QA Workflow Toolkit**](https://github.com/VidhyaSangeetha/ai-qa-workflow-toolkit) | Production-ready AI QA strategies, templates, checklists and case studies | `Documentation` `Strategy` |
